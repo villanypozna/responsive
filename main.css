@@ -74,22 +74,26 @@ h2 {
 /* ==== Önálló munka ==== */
 
 h1 {
-    font-size: 28.8px;
+    font-size: 1.8rem;
 }
 
 h2 {
-    font-size: 25.6px;
-    font color: #e5127d;
+    font-size: 1.6rem;
+    color: #e5127d;
 }
 body {
-    line-height: 32px;
-    font color: #333;
-    font-size: 18px;
+    line-height: 2rem;
+    color: #333;
+    font-size: 1.125rem;
 }
 
 .main-header p {
-    font-size: 18px;
-    letter-spacing: 2px;
-    font color : #8c8e9b;
+    font-size: 1.125rem;
+    letter-spacing: 0.125rem;
+    color : #8c8e9b;
     
+}
+
+.picture {
+	width: 100%;
 }
